@@ -1,2 +1,2 @@
 # report-builder
-A json-based PDF report builder , this package design for report designer who want to create freely pdf report without strong-skill on programming
+A json-based PDF report builder , this package is an initialize of my ideas to create any of pdf report for report designer who want to create freely pdf report without strong-skill on programming just only a json structured file.At the first nodejs and pdfkit is a weakly dependencies --this package can transform into any of computer languages as you. want feel free to contact me about this
